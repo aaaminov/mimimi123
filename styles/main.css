@@ -1,4 +1,28 @@
-body {
-    background-color:brown;
-    
+.r {
+    background-color: rgb(255, 0, 0);
+    min-height: 200px;
+}
+
+@media (max-width: 2000px) {
+    .qqwwee {
+        
+        
+        width: 30%;
+    }
+}
+
+@media (max-width: 1500px) {
+    .qqwwee {
+        
+        
+        width: 56%;
+    }
+}
+
+@media (max-width: 700px) {
+    .qqwwee {
+        
+        
+        width: 100%;
+    }
 }
